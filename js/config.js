@@ -1,1 +1,1 @@
-const HOSTNAME = "http://localhost:8000";
+const HOSTNAME = "https://upper-hand.github.io/event-react/side-nav-react-demo";
