@@ -141,7 +141,7 @@ var SideNav = React.createClass({
           },
           {
             title: "Manage",
-            link: "http://localhost:8000/contacts/manage.html"
+            link: HOSTNAME + "/contacts/manage.html"
           }
         ]
       },
